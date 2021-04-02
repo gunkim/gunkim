@@ -5,4 +5,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gunkim.dev@gmail.com)](mailto:gunkim.dev@gmail.com)
 [![Github Blog Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&color=black&logo=github&link=https://gunlog.dev)](https://gunlog.dev)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gunkim0318)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kanpann)](https://github.com/anuraghazra/github-readme-stats)
