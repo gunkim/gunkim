@@ -6,3 +6,5 @@
 [![Github Blog Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&color=black&logo=github&link=https://gunlog.dev)](https://gunlog.dev)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kanpann)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanpann&langs_count=8%20&hide=HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)
