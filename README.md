@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Java-azure?style=flat-square&logo=Java&logoColor=red"/>
     <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/>
     <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black&color=F7DF1E"/>
-    <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=61DAFB&color=white"/>
+    <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=white&color=76ccff"/>
     <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 <h3 align="center">📮 Me 📮</h3>
