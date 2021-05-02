@@ -19,4 +19,4 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanpann&langs_count=8%20&hide=HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunkims&langs_count=8%20&hide=HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)
