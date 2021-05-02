@@ -1,10 +1,23 @@
-## gunkims - 🙋‍♂️Back-end developer striving for good code
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Gunkim&fontSize=90)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunkim0318&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
+<div style="text-align:center;">
+    <h2>⚒️Tech Stack⚒️</h2>
+    <p>I use these techniques!</p>
+</div>
+<div style="text-align:center;">
+    <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=red"/></a>
+    <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/></a>
+    <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black&color=F7DF1E"/></a>
+    <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=61DAFB&color=white"/></a>
+    <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
+</div>
+<br/>
+<div style="text-align:center;">
+    <h2>🍊I'm...🍊</h2>
+</div>
+<div style="text-align:center;">
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gunkim.dev@gmail.com)](mailto:gunkim.dev@gmail.com)
 [![Github Blog Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&color=black&logo=github&link=https://gunlog.dev)](https://gunlog.dev)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kanpann)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanpann&langs_count=8%20&hide=HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+</div>
