@@ -3,7 +3,7 @@
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
 <p align="center"><b>I use these techniques!</b></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Java-azure?style=flat-square&logo=Java&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Java-palegoldenrod?style=flat-square&logo=Java&logoColor=red"/>
     <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/>
     <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black&color=F7DF1E"/>
     <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=white&color=76ccff"/>
