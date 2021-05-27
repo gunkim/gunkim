@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=1fff3c&height=300&section=header&text=Gunkim&fontSize=90)
 
-<h3 align="center">⚒️ Tech Stack ⚒️</h3>
-<p align="center"><b>I use these techniques!</b></p>
+<h3 align="center">⚒️ 저의 기술 스택은요...</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Java-palegoldenrod?style=flat-square&logo=Java&logoColor=red"/>
     <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/>
@@ -9,13 +8,10 @@
     <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=white&color=76ccff"/>
     <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
 </p>
-<h3 align="center">📮 Me 📮</h3>
+<h3 align="center">📮 저의 연락처에요...</h3>
 <p align="center">
     <a href="mailto:gunkim.dev@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gunkim.dev@gmail.com">
-    </a>
-    <a href="https://gunlog.dev">
-        <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&color=black&logo=github&link=https://gunlog.dev">
     </a>
 </p>
 <h3 align="center">🙋🏻‍♂️ 저는요...</h3>
@@ -27,6 +23,15 @@
     현재는 Java 백엔드 개발자이지만, 프론트엔드도 능숙하게 개발할 수 있는<br/>
     풀스택 개발자가 되기 위해 노력하고 있습니다.
 </p>
+
+<h3 align="center">📝 저의 블로그에요...</h3>
+<p align="center">
+    <a href="https://gunlog.dev">
+        <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&color=black&logo=github&link=https://gunlog.dev">
+    </a>
+</p>
+
+<hr/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunkims&show_icons=true&theme=radical)
 
