@@ -1,4 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=1fff3c&height=300&section=header&text=Gunkim&fontSize=90)
+<h3 align="center">🙋🏻‍♂️ 저는요...</h3>
+<p align="center">
+    꾸준함과 끈기로 문제를 해결해 나가는 사람,<br/>
+    멋진 코드 그리고 깨끗한 코드를 좋아합니다.
+</p>
+<p align="center">
+    현재는 Java 백엔드 개발자이지만, 프론트엔드도 능숙하게 개발할 수 있는<br/>
+    풀스택 개발자가 되기 위해 노력하고 있습니다.
+</p>
 
 <h3 align="center">⚒️ 저의 기술 스택은요</h3>
 <p align="center">
@@ -14,16 +23,6 @@
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gunkim.dev@gmail.com">
     </a>
 </p>
-<h3 align="center">🙋🏻‍♂️ 저는요...</h3>
-<p align="center">
-    꾸준함과 끈기로 문제를 해결해 나가는 사람,<br/>
-    멋진 코드 그리고 깨끗한 코드를 좋아합니다.
-</p>
-<p align="center">
-    현재는 Java 백엔드 개발자이지만, 프론트엔드도 능숙하게 개발할 수 있는<br/>
-    풀스택 개발자가 되기 위해 노력하고 있습니다.
-</p>
-
 <h3 align="center">📝 저의 블로그에요</h3>
 <p align="center">
     <a href="https://gunlog.dev">
