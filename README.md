@@ -19,4 +19,6 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunkims&langs_count=8%20&hide=HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gunkims)](https://github.com/anuraghazra/github-readme-stats)
+
+[![commit combo](http://commitcombo.com/get?user=gunkims&theme=Depths-calendar)](https://github.com/devxb/commitcombo)
