@@ -18,6 +18,15 @@
         <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&color=black&logo=github&link=https://gunlog.dev">
     </a>
 </p>
+<h3 align="center">🙋🏻‍♂️ 저는요...</h3>
+<p align="center">
+    꾸준함과 끈기로 문제를 해결해 나가는 사람,<br/>
+    멋진 코드 그리고 깨끗한 코드를 좋아합니다.
+</p>
+<p align="center">
+    현재는 Java 백엔드 개발자이지만, 프론트엔드도 능숙하게 개발할 수 있는<br/>
+    풀스택 개발자가 되기 위해 노력하고 있습니다.
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunkims&show_icons=true&theme=radical)
 
