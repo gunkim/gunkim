@@ -17,7 +17,7 @@
     <br/>
     <b>Backend</b><br/>
     <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/>
-    <img src="https://img.shields.io/badge/Hibernate-white?style=flat-square&logo=SpringBoot&logoColor=white&color=#b6a875"/>
+    <img src="https://img.shields.io/badge/Hibernate-white?style=flat-square&logo=Hibernate&logoColor=white&color=#b6a875"/>
     <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=Mysql&logoColor=white&color=blue"/>
     <img src="https://img.shields.io/badge/Oracle-black?style=flat-square&logo=Oracle&logoColor=white&color=lightgrey"/>
     <br/>
