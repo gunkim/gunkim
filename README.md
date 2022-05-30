@@ -12,17 +12,12 @@
 <p align="center">
     <b>Language</b><br/>
     <img src="https://img.shields.io/badge/Java-palegoldenrod?style=flat-square&logo=Java&logoColor=red"/>
-    <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black&color=F7DF1E"/>
-    <img src="https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=TypeScript&logoColor=white&color=76ccff"/>
     <br/>
     <b>Backend</b><br/>
     <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/>
     <img src="https://img.shields.io/badge/Hibernate-white?style=flat-square&logo=Hibernate&logoColor=white&color=#b6a875"/>
     <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=Mysql&logoColor=white&color=blue"/>
-    <img src="https://img.shields.io/badge/Oracle-black?style=flat-square&logo=Oracle&logoColor=white&color=lightgrey"/>
     <br/>
-    <b>Frontend</b><br/>
-    <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=white&color=76ccff"/>
 </p>
 <h3 align="center">📮 저의 연락처에요</h3>
 <p align="center">
