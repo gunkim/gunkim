@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=1fff3c&height=300&section=header&text=Gunkim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=1fff3c&height=300&section=header&text=gunkim&fontSize=90)
 <h3 align="center">🙋🏻‍♂️ 저는요...</h3>
 <p align="center">
     꾸준함과 끈기로 문제를 해결해 나가는 사람입니다!<br/>
