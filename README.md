@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=1fff3c&height=300&section=header&text=Gunkim&fontSize=90)
 <h3 align="center">🙋🏻‍♂️ 저는요...</h3>
 <p align="center">
-    꾸준함과 끈기로 문제를 해결해 나가는 사람,<br/>
-    멋진 코드 그리고 깨끗한 코드를 좋아합니다.
+    꾸준함과 끈기로 문제를 해결해 나가는 사람입니다!<br/>
+    멋진 코드, 그리고 깨끗한 코드를 좋아합니다.
 </p>
 <p align="center">
-    현재는 Java를 사용하여 주로 백엔드 개발을 하고 있습니다.
+    주로 Java 백엔드 개발을 하고 있습니다!
 </p>
 
 <h3 align="center">⚒️ 저의 기술 스택은요</h3>
