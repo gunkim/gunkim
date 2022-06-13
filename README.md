@@ -12,6 +12,7 @@
 <p align="center">
     <b>Language</b><br/>
     <img src="https://img.shields.io/badge/Java-palegoldenrod?style=flat-square&logo=Java&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Kotlin-purple?logo=kotlin"/>
     <br/>
     <b>Backend</b><br/>
     <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/>
