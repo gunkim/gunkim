@@ -18,8 +18,3 @@
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gunkim.dev@gmail.com">
     </a>
 </p>
-
-<hr/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunkim&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunkim&layout=compact&hide=html,css,scss,javascript,php,vue,ruby,mustache,liquid,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
