@@ -7,7 +7,7 @@
 ## Language
 
 <div>
-    <img src="https://img.shields.io/badge/Java-palegoldenrod?style=flat-square&logo=Java&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Java-palegoldenrod?style=flat-square&logo=openjdk&logoColor=red"/>
     <img src="https://img.shields.io/badge/Kotlin-purple?logo=kotlin"/>
 </div>
 
