@@ -3,17 +3,11 @@
 
 ## Language
 
-<div>
-    <img src="https://img.shields.io/badge/Java-palegoldenrod?style=flat-square&logo=openjdk&logoColor=red"/>
-    <img src="https://img.shields.io/badge/Kotlin-purple?logo=kotlin"/>
-</div>
+[![Language](https://skillicons.dev/icons?i=java,kotlin&theme=light)](https://skillicons.dev)
 
 ## Backend
 
-<div>
-    <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/>
-    <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=Mysql&logoColor=white&color=blue"/>
-</div>
+[![Backend](https://skillicons.dev/icons?i=spring,mysql&theme=light)](https://skillicons.dev)
 
 ## Contact
 
